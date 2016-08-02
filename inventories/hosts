@@ -1,0 +1,7 @@
+[elk]
+10.247.39.18
+127.0.0.1
+
+[elk:vars]
+ansible_ssh_user=root
+ansible_ssh_pass=password

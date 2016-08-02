@@ -1,0 +1,5 @@
+---
+elk_common_packages:
+    - Docker
+    - Docker-compose
+    
